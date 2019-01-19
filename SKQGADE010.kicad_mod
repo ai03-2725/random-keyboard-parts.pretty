@@ -1,4 +1,5 @@
-(module SKQGADE010 (layer F.Cu) (tedit 5B954366)
+(module SKQGADE010 (layer F.Cu) (tedit 5C42C5EB)
+  (attr smd)
   (fp_text reference REF** (at 0 4.064) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
